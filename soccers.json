@@ -1,1 +1,86 @@
-
+{
+  "lastUpdated": "2024-03-20T15:30:00Z",
+  "matches": [
+    {
+      "matchId": 123456,
+      "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "emblemUrl": "https://crests.football-data.org/PL.png"
+      },
+      "status": "IN_PLAY",
+      "utcDate": "2024-03-20T15:00:00Z",
+      "homeTeam": {
+        "id": 64,
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "crestUrl": "https://crests.football-data.org/liverpool.png"
+      },
+      "awayTeam": {
+        "id": 65,
+        "name": "Manchester City",
+        "shortName": "Man City",
+        "crestUrl": "https://crests.football-data.org/man_city.png"
+      },
+      "score": {
+        "winner": null,
+        "fullTime": {
+          "home": 2,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 1,
+          "away": 0
+        },
+        "extraTime": {
+          "home": null,
+          "away": null
+        },
+        "penalties": {
+          "home": null,
+          "away": null
+        }
+      },
+      "liveDetails": {
+        "currentMinute": 67,
+        "addedTime": 3,
+        "period": "SECOND_HALF",
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "shots": {
+          "home": 14,
+          "away": 9
+        },
+        "shotsOnTarget": {
+          "home": 6,
+          "away": 3
+        },
+        "corners": {
+          "home": 5,
+          "away": 3
+        },
+        "fouls": {
+          "home": 8,
+          "away": 11
+        },
+        "yellowCards": [
+          {
+            "team": "home",
+            "player": "Van Dijk",
+            "minute": 42
+          },
+          {
+            "team": "away",
+            "player": "Rodri",
+            "minute": 55
+          }
+        ],
+        "redCards": [],
+        "injuries": []
+      }
+    }
+  ]
+}
